@@ -1,0 +1,26 @@
+---
+title: "Axel Zagal Norman"
+image: "Axel.jpeg"
+color1: "#3C1896"
+color2: "#980934"
+angle: 130
+links:
+  - label: YouTube
+    url: "https://www.youtube.com/channel/UCcXIdiJkpr21ndYi3FPR_gA/featured"
+  - label: Facebook
+    url: "https://www.facebook.com/axel.zagal.54"
+  - label: Twitter
+    url: "https://twitter.com/NormanZagal"
+  - label: Email
+    url: "azagal@lcg.unam.mx.com"
+output:
+  postcards::onofre
+---
+19 years old
+Mexico
+Science and art enthusiast
+Cat lover
+
+I am currently studying in the Genomic Sciences Undergraduate Program at the 
+Genomic Sciences Center UNAM
+Intern at the Computational Genomics Program 
