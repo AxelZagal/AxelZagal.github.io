@@ -11,11 +11,11 @@ links:
     url: "https://www.facebook.com/axel.zagal.54"
   - label: Twitter
     url: "https://twitter.com/NormanZagal"
-  - label: Email
-    url: "azagal@lcg.unam.mx.com"
+
 output:
   postcards::onofre
 ---
+azagal@lcg.unam.mx
 
 Mexico
 
@@ -28,4 +28,4 @@ Spanish/English/French
 I am currently studying in the Genomic Sciences Undergraduate Program at the 
 Genomic Sciences Center UNAM
 
-Intern at the Computational Genomics Program 
+Intern at the Computational Genomics Program and the Systems Biology and Synthetic Biology Program at CCG UNAM
